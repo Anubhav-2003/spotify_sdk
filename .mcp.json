@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "mobile-mcp": {
+      "command": "npx",
+      "args": ["-y", "@mobilenext/mobile-mcp"]
+    },
+    "android-adb-mcp": {
+      "command": "npx",
+      "args": ["-y", "@landicefu/android-adb-mcp-server"]
+    }
+  }
+}
